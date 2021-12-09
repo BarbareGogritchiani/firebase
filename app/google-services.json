@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079021839032",
+    "project_id": "fir-barfi",
+    "storage_bucket": "fir-barfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079021839032:android:0fdcd633b3121caeac8a4d",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079021839032-m2hg2vf3q7pimv1j317q55rlc5nqu81q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVCYPs2BumJMbUbHsdeh5kGyn0DiAQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079021839032-m2hg2vf3q7pimv1j317q55rlc5nqu81q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
